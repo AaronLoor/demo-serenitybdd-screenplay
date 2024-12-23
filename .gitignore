@@ -1,0 +1,48 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+*.out
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+*.iml
+*.project
+*.classpath
+.idea/
+.settings/
+
+# IntelliJ IDEA
+*.iws
+*.iml
+.idea/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+var/
+
+# Serenity BDD specific files (reports, logs, and screenshots)
+serenity-reports/
+serenity-logs/
+serenity-screenshots/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*~
